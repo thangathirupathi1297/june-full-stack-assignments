@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+thangathirupathi
+        </title>
+        <!--for this page i used mentioned tags marquee,heading,named anchor ,br,ul,p,formating,iframe,img,ol,anchor,entities tag,audio,table,td,tr,th-->
+    </head>
+    <body style="background-color:#E2E6E3 ;"> <!--body tag i have used style attribute--> 
+<!--marquee tag in the marquee tag inside  i have used three format tags(strong,em,ins),h1 tag and img tag -->
+        <marquee scrollamount="30"behavior="slide" direction = "right" ><h1 style="color: rgb(55, 19, 48);">
+            <strong><em><ins>Candy</ins></em></strong>
+        </h1><img width="1200" height="575" src="food2.jpg" alt="food2">
+    </marquee>
+    <h1 style="text-align: left;">Overview</h1><!--h1-->
+    <ul><strong><!--unorder list inside i used  li and add named anchor tag -->
+        <li><a href="#History">History of Candys</a></li>
+        <li><a href="#Types">Types of Candys</a></li>
+        <li><a href="#Top">Top Candy Makers in World</a></li>
+        <li><a href="#Indian">Indian candy Makers</a></li>
+        <li><a href="#product">Company and products</a></li> 
+    </strong></ul>
+    <h2 id="History">History of Candys</h2><!--History of candy on this paragraph i have used p&ifarme tag -->
+<p>
+    <strong>T</strong>here are some people who believe that the first type of candy was derived from the honeycomb that ancient men and women would eat from beehives.  <mark>Honey is naturally sweet and people have been eating it in one form or another far longer than bees have been cultivated.</mark>  All across the ancient world, from the Middle East to Northern Africa to China, people preserved fruits and nuts in honey; not only did this enhance the taste, it could also make the original sweets in question last longer.  Fruit could be crystallized or dried in this fashion.
+    During the middle Ages in Europe, sugar was very expensive, and thus sweets were a luxury reserved for the wealthy. In particular, white sugar, which had been further refined and processed, was expensive, and there was some indication that hard sugar candy in the form of lozenges existed. By the 1600’s, boiled sweets were popular in England and in North America.
+    Hard sugar candy really took off, however, during the early part of the 1800’s when sugar beets were discovered to be a cheap provider of sugar. The combination of this discovery along with the advance of mechanized factories brought hard sugar candy into production, though many people still made hard candies such as lemon drops and peppermints at home.</br>
+    <iframe width="100%" height="392" src="https://www.youtube.com/embed/SPcDuLj4LrA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+    <h2 id="Types">Types of Candys</h2><!--types of candys on this paragraph i have used p,h3 & br tag -->
+
+    <p>
+    Candies are available in a wide variety of textures, from soft and chewy to hard and brittle.
+    Candy is made by dissolving sugar in water or milk. The type of candy depends on ingredients, sugar concentration, and the size of the sugar crystals, aeration, temperature, color and type of sugar used.</br><img width="1000" height="300"align="center" src="typeofcandy1.jpeg">
+  <h3>Caramels</h3>
+       Caramels are made by cooking sugar and water together.</br>
+       Types of caramel: caramel squares, Coffee Rio, Long Boys, Squirrel nut caramels, Caramel Crunch, Caramel Creams, Jelly Belly Caramel Corn,Vanilla Caramel...</br>
+  
+       <h3>Gummies</h3>
+       Gummies are gelatin based chewy candies that come in a variety of shapes, colors and flavors.</br>
+  
+       <h3>Hard Candies</h3>
+       Hard candies, or boiled sweets, are sugary candies that dissolve slowly in the mouth.</br>   
+  
+       <h3>Licorice</h3>
+       Licorice is a semi-soft candy, they are often black with licorice flavor or red and strawberry or cherry flavored.
+       Types of licorice: Red Vines, Snaps, Twizzler</br>
+  
+       <h3>Lollipops and Sours</h3>
+       Lilies or Lollipops are hard candies.
+  
+       <h3>Chewing gums</h3>
+       Chewing gum, called also a gum and bubblegum, is a chewy candy.
+  
+       <h3>Cotton Candy</h3>
+       Cotton candy, popular food at carnivals and amusement parks, is made out of 100% sugar.   
+    </p>
+    
+    <h2 id="Top">Top Candy Makers in World</h2><!--here i used ol,li,strong,del,br,a and img tags-->
+    <ol>
+        <li><strong>MARS</strong></br>Worldwide candy sales: $18.0 billion
+            Founded in: 1911</br>
+            Headquarters: McLean, Virginia, USA</br>
+            CEO: Grant Reid</br><a href="https://www.mars.com" target="_blank"><img src="https://usercontent.one/wp/www.alltopeverything.com/wp-content/uploads/2020/05/1920px-Mars_Inc.svg-600x121.png" alt="Mars"></a></li>
+    <li><strong><del>FERRERO</del></strong></br>Worldwide candy sales: $12.4 billion</br>
+        Founded in: 1946</br>
+        Headquarters: Alba, Piedmont, Italy</br>
+        CEO: Giovanni Ferrero</br>
+        <a href="www.ferrero.com" target="_blank"><img src="https://usercontent.one/wp/www.alltopeverything.com/wp-content/uploads/2020/05/1920px-Ferrero_logo.svg-600x78.png" alt="farreo"></a>
+    </li>
+    <li><strong>Mondelez International</strong></br>Worldwide candy sales: $11.8 billion</br>
+        Founded in: 2012</br>
+        Headquarters: Deerfield, Illinois, USA</br>
+        CEO: Dirk van de Put</br>
+        <a href="www.mondelezinternational.com"><img src="https://usercontent.one/wp/www.alltopeverything.com/wp-content/uploads/2020/05/1920px-Mondelez_international_2012_logo.svg-600x148.png" alt="Mondelez International"></a>
+    </li>
+    <li><strong>The Hershey Company</strong></br>
+        Worldwide candy sales: $7.8 billion</br>Founded in: 1894<br/>
+        Headquarters: Hershey, Pennsylvania, USA</br>CEO: Michele Buck</br>
+        <a href="www.hershey.com" target="_blank"><img width="556" height="154"src="https://usercontent.one/wp/www.alltopeverything.com/wp-content/uploads/2020/03/HersheyCo.svg_-600x217.png" alt="hershey"></a>
+    </li>   
+    <li><strong>Nestle</strong></br>
+    Worldwide candy sales: $6.1 billion</br>
+    Founded in: 1905</br>Headquarters: Vevey, Vaud, Switzerland</br>
+    CEO: Ulf Schneider</br>
+    <a href="www.nestle.com" target="_blank"><img src="https://usercontent.one/wp/www.alltopeverything.com/wp-content/uploads/2020/03/1280px-Nestl%C3%A9.svg_-600x172.png" alt="nestle"></a>
+</li>    
+</ol>
+
+    <h2 id="Indian">Indian candy Makers</h2><!--here i used ol,li,img,br,img,a,audio,&nbsp,strong and video tags-->
+        <ol>
+            <li>
+                <strong>ITC</strong></br>
+                CEO: Sanjiv Puri 
+            </br>Founded in: 1910</br>
+                Headquarters: Kolkata</br> 
+                Networth: $7.5 billion</br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/ITC_Limited_Logo.svg/150px-ITC_Limited_Logo.svg.png" alt="itc"></br>
+<audio controls muted>
+    <source src="itc.mp3" type="audio/mp3">
+</audio>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<video controls width="445" height="245" poster="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/ITC_Limited_Logo.svg/150px-ITC_Limited_Logo.svg.png" muted>
+    <source src="itccandy.mp4" type="video/mp4">
+</video>
+</li>
+            <li><strong>Parle</strong></br>Founded in: 1929</br>
+                CEO:Schauna Chauhan </br>
+                Headquarters:	Vile Parle (East), Mumbai, Maharashtra, India</br>
+                Networth :$2.5 billion</br>
+                <img width="245" height="145"src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Parle_Logo.svg/220px-Parle_Logo.svg.png" alt="parle"></br>
+                <audio controls muted>
+                    <source src="parle.mp3" type="audio/mp3">
+                </audio>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <video width="445" height="245" controls muted  poster="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Parle_Logo.svg/220px-Parle_Logo.svg.png">
+                    <source src="Parle Kaccha.mp4" type="video/mp4">
+                </video></br>
+            </li>
+        </ol>
+        <h2 id="product">Company and products</h2><!--here i used table,hr,tr,td,th emoji entiities and a tags-->
+        <table border="1" width="55%"style="border: 8px solid black ;"> 
+        <tr>
+            <th>Company name</th>
+            <th colspan="3">Their Top Products name</th>
+        </tr> 
+        <tr>
+            <td>MARS</td>
+            <td>Galaxy</td>
+            <td>Galaxy Bubbles</td>
+            <td>Galaxy Minstrels</td>
+        </tr> 
+        <tr>
+            <td>FERRERO</td>
+            <td>Kinder Joy</td>
+            <td>Tic Tac</td>
+            <td>Nutella</td>
+        </tr> 
+        <tr>
+            <td>Mondelez international</td>
+            <td>Cadbury Choclairs</td>
+            <td>Cadbury Gems</td>
+            <td>Cadbury perk</td>
+        </tr> <tr>
+            <td>Hershey</td>
+            <td>Nutrine</td>
+            <td>Jolly Ranger</td>
+            <td>HERSHEY'S KISSES</td>
+        </tr> <tr>
+            <td>Nestle</td>
+            <td> Milkybar</td>
+            <td> Milo</td>
+            <td> Kit Kat</td>
+        </tr> <tr>
+            <td>ITC</td>
+            <td>Candyman</td>
+            <td>Jelly bean</td>
+            <td>Mint-o</td>
+        </tr> <tr>
+            <td>Parle</td>
+            <td>Mango bite</td>
+            <td>Fulltoss Candy</td>
+            <td>Mazelo Candy</td>
+        </tr>
+        </table>
+        <p style="color: red; font-size:x-large; text-align: center;">&#128526 Thank you &#128526</p>
+        <p style="text-align:right; color:black;">Web design:<a href="mailto:thangathirupathi1297@gmail.com"><strong>Thangathirupathi</strong></a></p>
+
+        <p style="text-align: center;">&COPY;copyright all rights reserved 2020</p>
+         <hr width="100%"size="25%" />
+    </body>
+</html>
